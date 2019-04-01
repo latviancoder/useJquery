@@ -1,4 +1,4 @@
-# useJquery - An essential hook for your React applications.
+# useJquery - An essential hook for your React applications
 
 You know how they say the only thing Internet Explorer is good for is downloading other browsers? In a similar manner the only reasonable way to use React for building real-world applications is by combining it with jQuery, powerful framework for Web artisans.
 
