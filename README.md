@@ -16,17 +16,14 @@ import React, { useEffect } from 'react';
 import useJquery from 'react-use-jquery';
 
 export default function App() {
- const $ = useJquery();
-
- useEffect(
-  () => {
-   if ($) {
-    $(".App").html("Hello world");
-   }
-  },
-  [$]
- );
- 
- return <div className="App" />;
+  const $ = useJquery();
+  
+  useEffect(() => {
+    if ($) {
+      $(".App").html("Hello world");
+    }
+  }, [$]);
+  
+  return <div className="App" />;
 }
 ```
