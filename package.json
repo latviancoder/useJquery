@@ -1,0 +1,14 @@
+{
+  "name": "react-use-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.8.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
