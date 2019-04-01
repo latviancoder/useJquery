@@ -20,7 +20,7 @@ export default function App() {
   
   useEffect(() => {
     if ($) {
-      $(".App").html("Hello world");
+      $('.App').html('Hello world');
     }
   }, [$]);
   
